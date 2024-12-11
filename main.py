@@ -25,6 +25,8 @@ def main():
             elif choice == 2:
                 print("결과:")
             elif choice == 3:
+                print(f"결과: {x} * {y} = {x * y}")
+            elif choice == 4:
                 print("결과:")
             elif choice == 4:
                 if y != 0:
